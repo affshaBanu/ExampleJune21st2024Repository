@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AutoWorkSpace/DemoJavaProject/DemoJavaProject.iml" filepath="$PROJECT_DIR$/AutoWorkSpace/DemoJavaProject/DemoJavaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ExampleJune21st2024Repository.iml" filepath="$PROJECT_DIR$/.idea/ExampleJune21st2024Repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoWorkSpace/DemoJavaProject/SampleAfsha/SampleAfsha.iml" filepath="$PROJECT_DIR$/AutoWorkSpace/DemoJavaProject/SampleAfsha/SampleAfsha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoWorkSpace/DemoJavaProject/SampleAfshaOriginal/SampleAfshaOriginal.iml" filepath="$PROJECT_DIR$/AutoWorkSpace/DemoJavaProject/SampleAfshaOriginal/SampleAfshaOriginal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoWorkSpace/Test1/Test1.iml" filepath="$PROJECT_DIR$/AutoWorkSpace/Test1/Test1.iml" />
+    </modules>
+  </component>
+</project>
